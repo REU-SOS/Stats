@@ -1,3 +1,5 @@
+[Prereqs](https://github.com/REU-SOS/Stats/blob/master/Prereqs.md#prereqs) | [Summary](https://github.com/REU-SOS/Stats/blob/master/Summary.md#summary) | [Tests](https://github.com/REU-SOS/Stats/blob/master/Tests.md#tests) | [Viz](https://github.com/REU-SOS/Stats/blob/master/Viz.md#viz)
+
 # Stats
 
 Basic Statistics
@@ -10,16 +12,10 @@ Basic Statistics
    
    emerson's stats info...pdf
    
-   
 3. Standard Tests
    ttest, correlations, etc...
-   
-4. Advanced:
-   corrections, matching
-   
-5. Visualizations
+ 
+4. Visualizations
    boxplots, foo...
-
-About distributions.
 
 

@@ -35,7 +35,7 @@ Rscript install.R
 
 #### Loading Data from MySQL or CSV
 
-See [LoadFromCSV](https://github.com/REU-SOS/Stats/blob/master/src/loadDataFromCSV.R)
+See [LoadFromCSV](https://github.com/REU-SOS/Stats/blob/master/src/loadDataFromCSV.R)  
 See [LoadFromSQL](https://github.com/REU-SOS/Stats/blob/master/src/loadDataFromSQL.R)
 
 To load data from your MySQL Database

@@ -11,7 +11,7 @@ The most standard t-test you'll find in statistics in the student's t-test. This
 Effect size is a measure of the "importance" of a difference. Cohen's D is one way to estimate the strength of possible difference between two populations.
 
 | Effect size	| r   |
-| ----------- | --  |
+|-------------|-----|
 | Small       |	0.10|
 | Medium	    | 0.30|
 | Large	      | 0.50|

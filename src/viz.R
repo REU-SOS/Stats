@@ -22,18 +22,3 @@ t.test(x,y,paired=TRUE)
 
 # What's the effect size
 cohensD(x,y)
-
-# Are votes and comments correlated?
-cor.test(x,y)
-
-
-# Practice
-
-f.query <- dbSendQuery(connection, "SELECT id, votes_count, comments_count FROM Posts WHERE tagline LIKE '%iphone%'")
-f.results = fetch(f.query, n=-1)
-postsIphone  = f.results
-
-f.query <- dbSendQuery(connection, "SELECT id, votes_count, comments_count FROM Posts WHERE tagline NOT LIKE '%iphone%'")
-f.results = fetch(f.query, n=-1)
-postsWithoutIphone  = f.results
-

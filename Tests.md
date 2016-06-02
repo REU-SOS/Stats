@@ -18,7 +18,7 @@ Effect size is a measure of the "importance" of a difference. Cohen's D is one w
 
 ### Correlation
 
-Correlation is a measure of association between two distributions. For example, 
+Correlation is a measure of association between two distributions. For example, we can measure if there is a correlation between posts receiving votes and getting comments.
 
 ## Practice
 

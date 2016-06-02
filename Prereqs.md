@@ -45,7 +45,7 @@ Rscript loadDataFromSQL.R
 
 To load from CSV (you must have data in data/posts.csv)
 ```
-RScript loadDataFromCSV.R
+Rscript loadDataFromCSV.R
 ```
 
 Both of these scripts will output a file called Rplots.pdf, which will contain a histogram summary of data.

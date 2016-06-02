@@ -10,8 +10,6 @@ connection <- dbConnect(MySQL(), user = 'root', password = '', host = '127.0.0.1
 f.query <- dbSendQuery(connection, "SELECT id, votes_count, comments_count FROM Posts")
 f.results = fetch(f.query, n=-1)
 
-
-
 #x<-rnorm(10)
 x <- f.results[,2]
 

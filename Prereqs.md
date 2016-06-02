@@ -35,3 +35,18 @@ Rscript install.R
 
 #### Loading Data from MySQL or CSV
 
+See [LoadFromCSV](https://github.com/REU-SOS/Stats/blob/master/src/loadDataFromCSV.R)
+See [LoadFromSQL](https://github.com/REU-SOS/Stats/blob/master/src/loadDataFromSQL.R)
+
+To load data from your MySQL Database
+```
+Rscript loadDataFromSQL.R
+```
+
+To load from CSV (you must have data in data/posts.csv)
+```
+RScript loadDataFromCSV.R
+```
+
+Both of these scripts will output a file called Rplots.pdf, which will contain a histogram summary of data.
+
